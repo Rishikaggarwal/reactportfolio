@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend Developer",
+    "organisation": "Greymetre",
+    "startDate": "Sept 2024 - ",
+    "endDate": "Nov 2024",
+    "location": "Work from home",
+    "experiences": [
+      "Worked on Greymetre"
+    ],
+    "imageSrc": "company/greymetre.webp"
+  }
+]

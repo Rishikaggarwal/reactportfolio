@@ -1,0 +1,23 @@
+[
+  {
+    "key": 1,
+    "title": "Real Time Chat Application",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "description": "This is a project made with React js and Node js with Socket.io.",
+    "source": "https://github.com/Rishikaggarwal/CHAT"
+  },
+  {
+    "key": 2,
+    "title": "Interactive Sorting Visualizer",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "description": "This is a project made with complete Javascript.",
+    "source": "https://fancy-advanced-sorting-visualizer.vercel.app/"
+  },
+  {
+    "key": 3,
+    "title": "Brightness Controller",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+    "description": "This is a project made with complete python using open cv.",
+    "source": "https://github.com/Rishikaggarwal/brightnesscontrol"
+  }
+]
